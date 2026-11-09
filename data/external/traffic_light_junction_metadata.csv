@@ -1,0 +1,49 @@
+﻿Author,משרד התחבורה
+Publisher,משרד התחבורה
+Contact,צוות חצב
+Contact Email,geo@mot.gov.il
+Title,צמתים מרומזרים
+Description,השכבה מציגה צמתים בהם מוצבים רמזורים בישראל
+Created,1/12/2020
+Version,4
+Last updated,6/9/2026
+Temporal coverage,2026
+Spatial coverage,ארצי
+Metadata creator,מורן בן תורה
+Metadata creation date,6/10/2026
+Keywords,"צמתים,רמזורים,מרומזרים,בקרת תנועה,ארצי,חצב"
+Frequency of update,המאגר מתעדכן בתדירות לא קבועה
+Language,עברית
+Legal constrains,http://opendefinition.org/licenses/cc-by
+License,Creative Commons Attribution
+Dataset file,TRAFFIC_LIGHT_JUNCTION.ZIP
+URL,https://data.gov.il/he/datasets/ministry_of_transport/traffic_light_junction
+Files list,"SHP,LYR, KMZ, CSV"
+File name,TRAFFIC_LIGHT_JUNCTION.SHP
+File format,SHP
+File description,שכבת GIS בפורמט SHP וקובץ סימבולוגיה LYR
+File spatial coverage,ארצי
+Spatial reference system,ITM
+Geographic bounding,"158563.499300:253971.432700 , 791913.181400:402092.334500"
+File Fields,"name,type,description,comment,value,label"
+,"JUNCTION,String,צומת/מחלף,שם צומת"
+,"STREETROAD,String,כביש/רחוב,שמות רחובות/מספרי דרכים מצטלבים"
+,"CITY,String,ישוב,שם ישוב"
+,"CITYCODE,String,קוד ישוב,קוד ישוב"
+,"AUTHORITY,String,רשות תמרור מקומית,שם רשות תמרור של הדרך בו מוצב הרמזור אם שונה מהרשות המקומית"
+,"AUTHCODE,String,קוד רשות תמרור,קוד רשות תמרור של הדרך בו מוצב הרמזור אם שונה מהרשות המקומית"
+,"DOMAIN,String,תחום הצבה,תחום עירוני או בין עירוני,1,עירוני"
+,"2,בין עירוני"
+,"DISTRICT,String,מחוז,שם מחוז,1,דרום"
+,"2,חיפה"
+,"3,יו""ש"
+,"4,ירושלים"
+,"5,מרכז"
+,"6,צפון"
+,"7,תל אביב"
+,"OBJECTID,OID,OBJECTID,לא לתצוגה"
+,"Shape,Geometry,Shape,לא לתצוגה"
+,"X,Double,X,לא לתצוגה"
+,"Y,Double,Y,לא לתצוגה"
+,"NEW,String,NEW,לא לתצוגה"
+,"DISTRICODE,Integer,קוד מחוז,לא לתצוגה"

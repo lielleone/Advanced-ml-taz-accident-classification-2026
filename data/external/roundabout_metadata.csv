@@ -1,0 +1,42 @@
+﻿Author,משרד התחבורה
+Publisher,משרד התחבורה
+Contact,צוות חצב
+Contact Email,geo@mot.gov.il
+Title,מעגלי תנועה
+Description,השכבה מציגה צמתים בהם מוצבים מעגלי תנועה
+Created,1/2/2022
+Version,5
+Last updated,6/9/2026
+Temporal coverage,מצב קיים
+Spatial coverage,ארצי
+Metadata creator,מורן בן תורה
+Metadata creation date,6/10/2026
+Keywords,"דרכים ותשתיות,מעגלי תנועה,ארצי,חצב"
+Frequency of update,המאגר מתעדכן בתדירות לא קבועה
+Language,עברית
+Legal constrains,http://opendefinition.org/licenses/cc-by
+License,Creative Commons Attribution
+Dataset file,ROUNDABOUT.ZIP
+URL,https://data.gov.il/he/datasets/ministry_of_transport/roundabout
+Files list,"SHP,LYR, KMZ, CSV"
+File name,ROUNDABOUT.SHP
+File format,SHP
+File description,שכבת GIS בפורמט SHP וקובץ סימבולוגיה LYR
+File spatial coverage,ארצי
+Spatial reference system,ITM
+Geographic bounding,"130813.252800:278717.082300, 798552.276200:378316.013500"
+File Fields,"name,type,description,comment,value,label"
+,"NEW,String,NEW,נוסף לשכבה אחרי מחצית 2024"
+,"JUNCTION,String,צומת/מחלף,שם צומת"
+,"STREETROAD,String,כביש/רחוב,שם רחוב או מספר כביש"
+,"CITY,String,ישוב,שם ישוב"
+,"CITYCODE,Double,קוד ישוב,קוד ישוב"
+,"AUTHORITY,String,רשות תמרור מקומית,שם רשות תמרור מקומית"
+,"AUTHCODE,long Integer,קוד רשות תמרור,קוד רשות תמרור"
+,"DOMAIN,String,תחום הצבה,תחום עירוני או בין עירוני"
+,"DISTRICT,String,מחוז,שם מחוז"
+,"OBJECTID,OID,OBJECTID,לא לתצוגה"
+,"Shape,Geometry,Shape,לא לתצוגה"
+,"X,Double,X,לא לתצוגה"
+,"Y,Double,Y,לא לתצוגה"
+,"DISTRICODE,Integer,DISTRICODE,לא לתצוגה"
